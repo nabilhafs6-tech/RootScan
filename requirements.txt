@@ -1,0 +1,4 @@
+# RootScan intentionally uses ONLY the Python 3.8+ standard library.
+# Nothing to install. 🎉
+#
+# Run:  python3 rootscan.py https://example.com
